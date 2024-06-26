@@ -3,8 +3,8 @@ A data analysis class project for Columbia University's AI bootcamp.
 
 ## Project Team Members:
 * Kalvin Anglin
-* Ian Cody
+* Vadim Bychok
 * Peta-Gaye McKenzie
 * Odele Pax
-* Kyle Prudente
+* Eric Alicea
 * Funda Subasi
